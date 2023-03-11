@@ -10,8 +10,8 @@ JavaScript
 
 ## Projeto
 
-Roleta de Jogos
+Roleta de Prêmios
 
 ## Imagem do projeto
 
-![2022-11-04_213426](https://user-images.githubusercontent.com/103325619/200126330-59b1dc69-9505-4725-858d-be55c6715d8a.png)
+![2023-03-11_125633](https://user-images.githubusercontent.com/103325619/224494533-daa5fb6e-1a30-4b87-acc6-299821ecba87.png)
